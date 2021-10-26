@@ -1,0 +1,8 @@
+node_modules/
+ssl/
+.env
+.logs/
+.vscode/
+.exception
+.rejection
+.idea
